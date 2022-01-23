@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing more my skills in prohramming
 - 🌱 I’m currently learning Javascript and web development, HTML/CSS
 - 💞️ I’m looking to collaborate on interesting projects that will permit me to grow up in programming
-- 📫 How to reach me ...
+- 📫 How to reach me: gk.perso@gmail.com
 
 <!---
 GLecaillon/GLecaillon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
